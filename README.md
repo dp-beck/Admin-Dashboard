@@ -5,4 +5,6 @@ This is a practice project from the Odin Project for creating an administrative 
 Technologies used:
 
     - HTML
-    - CSS (primarily Grid Layout) 
+    - CSS (primarily Grid Layout)
+
+Link:    https://dp-beck.github.io/Admin-Dashboard/ 
